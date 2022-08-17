@@ -1,9 +1,9 @@
-# JAVA-Clase8Ej1
-## Ejemplo 1 del Tutorial de JAVA Clase 8
+# JAVA-Clase8Ej4
+## Ejemplo 4 del Tutorial de JAVA Clase 8
 
-  * Servlets básicos
-  * Request y Response
-  * Interacción HTML5 y Servlets JAVA
+  * JSP y CSS
+  * Utilizando clases pojo como Model
+  * Muestra de objetos en JSP
 
 ## Apunte Clase Teórica JAVA 8
 [JAVA-Clase8](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA8.pdf)
